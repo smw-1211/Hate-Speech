@@ -70,7 +70,7 @@ There are 2 ways to run this project:
 
   
 
-Incase you have any difficulties or issues while trying to run the app you can raise it on the issues section.
+Incase you have any difficulties or issues while trying to run the app you can raise it in the issues section.
 
   
 
@@ -78,7 +78,7 @@ Incase you have any difficulties or issues while trying to run the app you can r
 
   
 
-If you have something to add or new idea to implement, you are welcome to create a pull requests on improvement.
+If you have something to add or new idea to implement, you are welcome to create pull requests on improvement. If you have trained this model on other data and achieved meaningful insights, feel free to create a PR and contribute :smile:.
 
   
 
