@@ -78,7 +78,7 @@ Incase you have any difficulties or issues while trying to run the app you can r
 
   
 
-If you have something to add or new idea to implement, you are welcome to create pull requests on improvement. If you have trained this model on other data and achieved meaningful insights, feel free to create a PR and contribute :smile:.
+If you have something to add or new idea to implement, you are welcome to create pull requests on improvement. If you have trained this model on other data and achieved meaningful insights, feel free to create a PR and contribute 😃:.
 
   
 
