@@ -2,7 +2,7 @@
 
 # Hate-Speech Detection using LSTM
 
-##What is LSTM?
+## What is LSTM?
 
 Long short-term memory network is a recurrent neural network, aimed to deal with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods.
 
