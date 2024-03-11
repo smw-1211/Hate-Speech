@@ -2,16 +2,16 @@
 
 # Hate-Speech Detection using LSTM
 
-##What is LSTM?
+## What is LSTM?
 
 Long short-term memory network is a recurrent neural network, aimed to deal with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods.
 
 
-## Data used
+## Dataset Description
 
-To identify hate speech, I have extracted data from twitter as tweets and created 2 datasets as train and test with 70% train data and 30% test data which I have used to train and test the model.
+To identify hate speech, I have extracted data from twitter as tweets and created 2 datasets as train and test with **70% train data** and **30% test data** which I have used to train and test the model.
 
-When we train the model against this data with 10epochs, we achieve a commendable accuracy of 97.59%
+When we train the model against this data with 10epochs, we achieve a commendable accuracy of **97.59%**
 
 
 ## Installation  
@@ -38,7 +38,7 @@ There are 2 ways to run this project:
 
   
 
-> Once both the files are uploaded, you are free to run the notebook online and view the insights gathered by me :star_struck:.
+> Once both the files are uploaded, you are free to run notebook online and view the insights gathered by me :star_struck:.
 
   
 
@@ -59,9 +59,11 @@ There are 2 ways to run this project:
   
 ## Insights of the model
 
-> Here are some of the images which show words that the model has identified as hate speech
+> Fig1. illustrates the words that the model has identified as hate speech.
 
 ![lstm-output-images](./images/image.png)
+
+> Fig2. describes the predicted output once the model is trained and tested on the data.
 
 ![image-of-predicted-output](./images/output_image.png)
 
@@ -78,7 +80,7 @@ Incase you have any difficulties or issues while trying to run the app you can r
 
   
 
-If you have something to add or new idea to implement, you are welcome to create pull requests on improvement. If you have trained this model on other data and achieved meaningful insights, feel free to create a PR and contribute 😃:.
+If you have something to add or new idea to implement, you are welcome to create pull requests on improvement. If you have trained this model on other data and achieved meaningful insights, feel free to create a PR and contribute 😃.
 
   
 
